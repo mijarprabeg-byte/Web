@@ -216,3 +216,10 @@ body{
         height:140px;
     }
 }
+
+footer{
+    text-align:center;
+    color:rgb(237, 230, 230);
+    padding:20px;
+    background-color: rgb(41, 37, 37);
+}
